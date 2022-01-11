@@ -1,0 +1,15 @@
+{
+	"title": "Arbidsofts - Sistema de Controle de Ordens de Servi&ccedil;o",
+	"extensions": [
+		"cURL",
+		"MySQLi",
+		"GD"
+	],
+  "database_file": "../banco.sql",
+  "writeable_directories": {
+    "files": "/updates",
+    "index": "/index.php",
+    "config": "/application/config/config.php",
+    "database": "/application/config/database.php"
+  }
+}
